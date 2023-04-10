@@ -1,0 +1,5 @@
+Size original .csv data file: 3.77 GB
+Total size of compressed .csv.gz data files: 256 MB
+
+Total Number of Columns: 11
+Total Number of Rows: 52132908

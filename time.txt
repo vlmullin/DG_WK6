@@ -1,0 +1,14 @@
+Draft Session:
+No Accelerator
+Disk 5.7GB
+Max 73.1GB
+
+RAM 13.1GB
+Max 30GB
+
+
+Pandas Execution time in seconds: 77.24895787239075Datatable
+Dask Execution time in seconds: 21.3352370262146
+Polar Execution time in seconds: 12.898459196090698
+Vaex Execution time in seconds: 53.11017322540283
+Pyspark Execution time in seconds: 0.4452626705169678
